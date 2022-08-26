@@ -1,3 +1,4 @@
+![smaloa-68-00-59](https://cdn-images-1.medium.com/max/1600/0*lNjAqrLlCv3Fm5vd.png)
 # smaloa-68-00-59
 just another javascript library
 
